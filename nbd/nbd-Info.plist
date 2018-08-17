@@ -27,11 +27,9 @@
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.kpi.bsd</key>
-		<string>13.3</string>
+		<string>17.7</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>13.3</string>
-		<key>com.apple.kpi.mach</key>
-		<string>13.3</string>
+		<string>17.7</string>
 	</dict>
 </dict>
 </plist>
